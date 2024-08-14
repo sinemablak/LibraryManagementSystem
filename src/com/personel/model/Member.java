@@ -30,4 +30,6 @@ public class Member {
         }
     }
 
+    public void borrowBook(Book book) {
+    }
 }
